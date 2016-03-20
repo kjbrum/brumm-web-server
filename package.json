@@ -1,12 +1,12 @@
 {
   "name": "brumm-web-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just messing around with Node.js stuff.",
   "main": "index.js",
   "scripts": {
     "dev": "open http://localhost:3000 && nodemon server.js"
   },
-  "author": "",
+  "author": "Kyle Brumm",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
